@@ -16,6 +16,7 @@ import triandaafandi.ac.id.example.githubprofile.services.GithubUserService
 import triandaafandi.ac.id.example.githubprofile.services.ServiceBuilder
 import triandaafandi.ac.id.example.githubprofile.viewmodels.MainViewModel
 
+
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
